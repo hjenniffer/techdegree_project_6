@@ -1,0 +1,70 @@
+{
+"projects":[
+    
+{
+"id":0,
+"project_name": "Random Quotes Generator",
+"description":" Random Quoates Generator app displays random quotes each time a button is clicked",
+"technologies":["Vanilla JavaScripts","HTML","CSS"],
+"live_link":" ",
+"github_link":" ",
+"images_urls":" "
+
+},
+
+{
+"id":1,
+"project_name": "Random Quotes Generator",
+"description":" Random Quoates Generator app displays random quotes each time a button is clicked",
+"technologies":["Vanilla JavaScripts","HTML","CSS"],
+"live_link":" ",
+"github_link":" ",
+"images_urls":" "
+
+},
+
+{
+"id":2,
+"project_name": "Random Quotes Generator",
+"description":" Random Quoates Generator app displays random quotes each time a button is clicked",
+"technologies":["Vanilla JavaScripts","HTML","CSS"],
+"live_link":" ",
+"github_link":" ",
+"images_urls":" "
+
+},
+
+{
+"id":3,
+"project_name": "Random Quotes Generator",
+"description":" Random Quoates Generator app displays random quotes each time a button is clicked",
+"technologies":["Vanilla JavaScripts","HTML","CSS"],
+"live_link":" ",
+"github_link":" ",
+"images_urls":" "
+    
+    },
+    
+
+
+    {
+       
+     "id":4,
+    "project_name": "Random Quotes Generator",
+     "description":" Random Quoates Generator app displays random quotes each time a button is clicked",
+    "technologies":["Vanilla JavaScripts","HTML","CSS"],
+    "live_link":" ",
+    "github_link":" ",
+    "images_urls":" "
+        
+        }
+
+
+
+
+
+
+
+
+]
+}
