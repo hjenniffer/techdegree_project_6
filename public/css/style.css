@@ -1,10 +1,10 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Bellota Text', cursive;
 }
 
   h5{
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family:  'Bellota Text', cursive;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
@@ -69,7 +69,7 @@ a:hover{
   }
 
   .portfolio-me a{
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family:  'Roboto', sans-serif;
     font-weight: 600;
     color: #555;
     font-size: 13px;
@@ -89,7 +89,7 @@ a:hover{
 }
 
  .portfolio-breadcrumb a{
-   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-family:  'Roboto', sans-serif;
    font-weight: 600;
    font-size: 13px;
    letter-spacing: 2.5px;
@@ -125,6 +125,7 @@ a:hover{
   }
 
     .portfolio-index .cell h5{
+      font-family:  'Bellota Text';
       letter-spacing: 1px;
     }
 
@@ -148,3 +149,38 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+/* CSS for my own styles*/
+
+.portfolio-index .cell .thumbnail{
+
+opacity: .7;
+transition:ease-in-out;
+transition-duration: .7s;
+
+
+}
+
+.portfolio-index .cell:hover{
+
+transform: scale(1.1);
+  
+  }
+
+  .portfolio-index .cell:hover img{
+
+opacity: 1;
+
+  }
+
+  #my-info{
+
+    background-color: #00CED1;
+
+
+
+  }
+  
+
+
+
