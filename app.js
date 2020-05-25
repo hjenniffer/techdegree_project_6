@@ -14,13 +14,15 @@ app.use('/static',express.static('public'));
 app.set('view engine', 'pug');
 
 //An index route
-app.get('/', (req,res)=> {
+app.get('/', (req,res) => {
     res.render('index', {projects});
 });
 //An about route
 app.get('/about', (req, res)=> {
     res.render('about');
 });
+
+
 
 //Dynamic projects route
 app.get('/project/:id', (req, res, next)=> {

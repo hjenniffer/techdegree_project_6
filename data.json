@@ -3,7 +3,7 @@
       {
         "id": 0,
         "project_name": "Phrase Hunter",
-        "description": "OOP Game Show App is a browser based game in which player has to guess movie quotes. Every time the game runs it generates new movie quote and hides it under tiles. When player clicks a keyboard letter (in window or physical) the program checks if the letter exists in the phrase. If the letter exists in the phrase, it is unveiled if not player loses one \"life\". All keyboard buttons can be clicked only once, one click unveils all matching letters in a hidden phrase. The game continues until all letters in the phrase are guessed or there are no \"lives\" left.\n",
+        "description": "OOP Game Show App is a browser based game in which player has to guess phrases. When the game runs it generates new phrase. When player clicks a keyboard letters the program checks if the letter exists in the phrase. If the letter exists in the phrase, it is unveiled if not player loses one \"life\". All keyboard buttons can be clicked only once. The game continues until all letters in the phrase are guessed or if the player runs out of\"lives\" ",
         "technologies": ["Vanilla JavaScript", "Object Oriented Programming", "HTML", "CSS"],
         "live_link": "https://hjenniffer.github.io/techdegree_project_4/",
         "github_link":"https://github.com/hjenniffer/techdegree_project_4",
@@ -14,7 +14,7 @@
       {
         "id": 1,
         "project_name": "Public API Request",
-        "description": "Public API Request is an app for a fictional company called Awesome Startup. It grabs information for 12 randomly generated employees and use the data to build 12 user cards. App requests JSON object from the API https://randomuser.me. Then parse the data to generate our users cards (it takes user image, full name, email and location). After clicking on employee card modal window opens. Modal window shows employees detailed information like full address and birthday.",
+        "description": "Public API Request is an app for a fictional company called Awesome Startup. The information is retreived for 12 randomly generated employees and use the data to build 12 user cards. App requests JSON object from the API https://randomuser.me. Then parses the data to generate users cards ( user image, full name, email and location). Upon clicking on employee card modal window opens, employees detailed information is displayed such as full address and birthday.",
         "technologies": ["Vanilla Javascript", "Public API Requests", "HTML", "CSS"],
         "live_link": "https://hjenniffer.github.io/public_api_request-v1/",
         "github_link": "https://github.com/hjenniffer/public_api_request-v1",
@@ -24,7 +24,7 @@
       {
         "id": 2,
         "project_name": "Full Stack Conf Form",
-        "description": "Full Stack Conf Form is an interactive registration form for tech conference. Form uses customise behaviours, such as hiding unnecessary input fields or select options. All of the validations for this form are powered by javaScript and provide helpful notes when the users data are invalid. I'm using Progressive Enhancement technique to make this form work, even if the user has enabled JavaScript.\n\nWhen user visit the page it automatically focus on a first name input. In job section, when the user selects other job option, the input for other job appears. In the t-shirt section form only allows to select t-shirt colour that is possible in selected t-shirt theme. Until theme is selected the colour can't be chosen. In activities section at least one activity have to be selected. Form automatically disables activities that are scheduled at the same time as already selected activity. The last section is payment. As a default it is set to show Credit Card as payment option. Payment option can be changed to PyPal or Bitcoin. When submit button is clicked, while there are invalid information error messages will appear. If an empty form is submitted error messages for all required fields will be shown.",
+        "description": "Full Stack Conf Form is an interactive registration form for tech conference. The Form uses responsive behaviours to users interaction, such as hiding unnecessary input fields or select options. The validations for this form are powered by JavaScript and prompts the users to re-enter data if entries are invalid. To creata a better user experience the page automatically focuses on a first name input. In job section, when the user selects other job option, the input for other job appears. In the t-shirt section form only allows to select t-shirt colour that is possible in selected t-shirt theme. Until theme is selected the colour can't be chosen. In activities section at least one activity have to be selected. The form automatically disables activities that are scheduled at the same time as already selected activity. The last section is payment. As a default it is set to show Credit Card as payment option. Payment option can be changed to PyPal or Bitcoin. When submit button is clicked, while there are invalid information error messages will appear. If an empty form is submitted error messages for all required fields will be shown.",
         "technologies": ["jQuery", "JavaScript", "HTML", "CSS"],
         "live_link": "https://hjenniffer.github.io/techdegree_project_3/",
         "github_link": "https://github.com/hjenniffer/techdegree_project_3",
@@ -34,7 +34,7 @@
       {
         "id": 3,
         "project_name": "List Pagination And Filtering",
-        "description": "In this project I enhance the web page with pagination technique. List Filter and Pagination project uses pagination technique to show maximum ten students at the page. It creates a navigation to let the user see the rest of the student by clicking on links inside the navigation. It has a search bar that allows to search the list of student, shows ones that match, adds pagination if there are more than ten results, adjust in real time when you change the words you search and throws an error message when no match were found.",
+        "description": "The web page with pagination technique is displayed in this project. List Filter and Pagination project uses pagination technique to show maximum ten students at the page. It creates a navigation to let the user see the rest of the student by clicking on links inside the navigation. It has a search bar that allows to search the list of student, shows ones that match, adds pagination if there are more than ten results, adjust in real time when you change the words you search and throws an error message when no match were found.",
         "technologies": ["Vanilla JavaScript", "HTML", "CSS"],
         "live_link": "https://hjenniffer.github.io/techdegree_project_2/",
         "github_link": "https://github.com/hjenniffer/techdegree_project_2",
@@ -44,7 +44,7 @@
       {
         "id": 4,
         "project_name": "Random Quote Generator",
-        "description": "What Would An Architect Say is an app that displays random quotes by famous architects each time the button 'show another quote' is clicked. An app also automatically refreshes quotes after 20s and chooses random background color.",
+        "description": "Randome Quote Generator is an app that displays random quotes each time the button 'show another quote' is clicked. The app also automatically refreshes quotes after 20s and chooses random background color.",
         "technologies": ["Vanilla JavaScript", "HTML", "CSS"],
         "live_link": "https://hjenniffer.github.io/techdegree_project_1/",
         "github_link": "https://github.com/hjenniffer/techdegree_project_1",
